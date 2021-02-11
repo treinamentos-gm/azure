@@ -1,1 +1,1 @@
-# azure
+# Repo para treinamento Azure DevOps
